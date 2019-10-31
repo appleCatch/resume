@@ -25,7 +25,7 @@
 
 ##### 1. 导入仓库
 
-> 点击github头像旁边的 "+" 号 选择 Import repository克隆地址填 https://github.com/DilemmaVi/resume 项目名填 resume
+> 点击github头像旁边的 "+" 号 选择 Import repository克隆地址填 https://github.com/appleCatch/resume 项目名填 resume
 
 
 ##### 2. 编辑简历文件
